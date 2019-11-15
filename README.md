@@ -1,2 +1,2 @@
 # portfolio
-Portfolio of my personal projects 
+Collection of machine learning templates that I have used 
